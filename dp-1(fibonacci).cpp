@@ -18,10 +18,8 @@ int main()
 {
     ara[1]=1;
     ara[2]=1;
-     ll n;
-     while(1){
-        cin>>n;
-        cout<<fib(n)<<endl;
-     }
+    ll n;
+    cin>>n;
+    cout<<fib(n)<<endl;
  return 0;
 }
